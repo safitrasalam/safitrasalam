@@ -1,8 +1,19 @@
 # Hi! My name is Syafitra Salam
 
-I am a Physics fresh graduate from Bandung Institute of Technology. Driven by curiosity, I am delighted to learn new things and broaden my perspective. As a highly motivated person, I strive to achieve my goals and focus to overcome every challenges. I am also a fast learner and could adapt to changes.
+I am a recent Physics graduate from Bandung Institute of Technology. Driven by curiosity, I am delighted to learn new things and broaden my horizons. As a highly motivated person, I strive to achieve my goals and focus to overcome every challenges. I am also a fast learner and could adapt to changes.
 
 During my undergraduate study, I participated in several organizations and internships. These experiences improved my soft skills in problem solving, teamwork, analytical thinking, and communication. I have worked on several projects with various progamming language such as Python, MATLAB, and Pascal to solve problems and analyze big data in Physics. These experiences motivated me to explore more about Computer Science. Currently, I am looking for a position for Data Scientist, Data Analyst, or any other related fields. 
+
+## Education
+**Bachelor of Science in Physics**
+Bandung Institute of Techology, Bandung
+Graduation Date: *September 26, 2023*
+
+## Skills:
+- Programming Languages: Python, MATLAB, Pascal
+- Database Management: SQL
+- Languages: Indonesian (Native), English (Full Professional Proficiency)
+- Soft Skills: Problem Solving, Analytical Thinking, Teamwork, and Communication
 
 ## Projects
 - **MATLAB**
